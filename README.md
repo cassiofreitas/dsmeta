@@ -7,4 +7,4 @@
 ## Anotações interessantes
 
  - `shift + alt + F = reidentar o código (VSC)`
- 
+ - `ctrl + D = depois de selecionar um item = seleciona todos`
