@@ -12,3 +12,4 @@
  
 - ### STS
   - `ctrl + shift + o` = insere `import` para pacotes (ou tipos) que faltam na classe.
+  - `ctrl + <space> = autocomplete para `Annotations`, incluinco a adição da linha do `import`.
