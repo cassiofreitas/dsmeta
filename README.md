@@ -6,5 +6,10 @@
 
 ## Anotações interessantes
 
+- ### Visual Studio Code
  - `shift + alt + F = reidentar o código (VSC)`
  - `ctrl + D = depois de selecionar um item = seleciona todos`
+ 
+- ### STS
+  - `ctrl + shift + o` = insere `import` para pacotes (ou tipos) que faltam na classe.
+  - `ctrl + <space> = autocomplete para `Annotations`, incluinco a adição da linha do `import`.
