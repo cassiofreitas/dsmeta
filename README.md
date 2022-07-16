@@ -3,3 +3,6 @@
 # <div align="center">Seja um desenvolvedor profissional</div>
 
 ## <div align="center">Escola DevSuperior - Nélio Alves</div>
+
+> Desenvolvimento de um aplicativo completo, com `backend` [Heroku] em Java/Spring e `frontend` [Netlify] em React.
+>> A aplicação foi desenvolvida e testada, usando a abordagem de estudo guiado com vídeos e explicações do processo.
