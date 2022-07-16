@@ -6,3 +6,5 @@
 
 > Desenvolvimento de um aplicativo completo, com `backend` [Heroku] em Java/Spring e `frontend` [Netlify] em React.
 >> A aplicação foi desenvolvida e testada, usando a abordagem de estudo guiado com vídeos e explicações do processo.
+
+### <div align="center">[Wiki com anotações do evento](https://github.com/cassiofreitas/dsmeta/wiki)</div>
